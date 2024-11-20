@@ -46,7 +46,7 @@ The TutorConnect is built to offer an engaging educational experience by allowin
 
 
 ### DEMO
--- Demo Check out the live demo: [Live Tutoring Platform Demo](http://your-live-demo-url.com)
+-- Demo Check out the live demo: 
 
 ## Getting Started
 
