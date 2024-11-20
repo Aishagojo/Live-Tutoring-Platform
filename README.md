@@ -48,6 +48,7 @@ TeachNet is built to offer an engaging educational experience by allowing studen
 
 Check out the live demo: [TeachNet Demo](https://teachnet.vercel.app)
 
+<<<<<<< HEAD
 ### **User Registration and Login**
 
 1. **Registration**:
@@ -77,6 +78,10 @@ Check out the live demo: [TeachNet Demo](https://teachnet.vercel.app)
 
 - Both students and tutors have access to a user-friendly dashboard where they can manage their bookings and sessions.
 - Users can view session history, manage notes, and follow-up on previous sessions.
+=======
+### DEMO
+-- Demo Check out the live demo: 
+>>>>>>> 6ac032bab25406037fd91bae2587b0ef26a64ab1
 
 ## Getting Started
 
