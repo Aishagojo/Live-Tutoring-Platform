@@ -1,12 +1,13 @@
-# Live Tutoring Platform
 
-The Live Tutoring Platform is designed to offer students the opportunity to book personalized, real-time tutoring sessions with qualified tutors.
- Unlike recorded lectures, this platform emphasizes interactive learning experiences, ensuring students receive immediate feedback and guidance.
+# TeachNet
 
+TeachNet is designed to offer students the opportunity to book personalized, real-time tutoring sessions with qualified tutors. Unlike recorded lectures, this platform emphasizes interactive learning experiences, ensuring students receive immediate feedback and guidance.
+
+## Project Introduction
 
 ### **Overview**
 
-The TutorConnect is built to offer an engaging educational experience by allowing students to book and attend live tutoring sessions. Tutors can create detailed profiles showcasing their expertise, and students can choose tutors based on their preferences and needs. The platform supports real-time interactions using video conferencing tools, enhancing the learning process through face-to-face communication and interactive tools.
+TeachNet is built to offer an engaging educational experience by allowing students to book and attend live tutoring sessions. Tutors can create detailed profiles showcasing their expertise, and students can choose tutors based on their preferences and needs. The platform supports real-time interactions using video conferencing tools, enhancing the learning process through face-to-face communication and interactive tools.
 
 ### **Key Features**
 
@@ -43,10 +44,39 @@ The TutorConnect is built to offer an engaging educational experience by allowin
 - **PostgreSQL**:
   - Store and manage all the data, including user accounts, tutor profiles, session bookings, and chat logs.
 
+## Demo
 
+Check out the live demo: [TeachNet Demo](https://teachnet.vercel.app)
 
-### DEMO
--- Demo Check out the live demo: [Live Tutoring Platform Demo](http://your-live-demo-url.com)
+### **User Registration and Login**
+
+1. **Registration**:
+   - New users can sign up by filling out a registration form with their name, email, and password.
+   - After successful registration, a confirmation message is displayed.
+
+2. **Login**:
+   - Registered users can log in using their email and password.
+   - Upon successful login, users receive a JWT token for authentication, which is stored in local storage.
+
+### **Tutor Profiles**
+
+- Tutors create and manage their profiles, providing details about their subjects, experience, and availability.
+- Students can browse these profiles, view ratings and reviews, and select a tutor based on their needs.
+
+### **Booking System**
+
+- Students can view tutors' availability and book sessions at convenient times.
+- The system sends automated reminders and notifications to both students and tutors to ensure sessions are not missed.
+
+### **Live Sessions**
+
+- Sessions are conducted using video conferencing tools like Zoom or Google Meet.
+- Features such as shared whiteboards, screen sharing, and interactive Q&A enhance the learning experience.
+
+### **Dashboard**
+
+- Both students and tutors have access to a user-friendly dashboard where they can manage their bookings and sessions.
+- Users can view session history, manage notes, and follow-up on previous sessions.
 
 ## Getting Started
 
@@ -59,5 +89,5 @@ The TutorConnect is built to offer an engaging educational experience by allowin
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/live-tutoring-platform.git
-   cd live-tutoring-platform
+   git clone https://github.com/yourusername/teachnet.git
+   cd teachnet
