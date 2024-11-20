@@ -48,41 +48,6 @@ TeachNet is built to offer an engaging educational experience by allowing studen
 
 Check out the live demo: [TeachNet Demo](https://teachnet.vercel.app)
 
-<<<<<<< HEAD
-### **User Registration and Login**
-
-1. **Registration**:
-   - New users can sign up by filling out a registration form with their name, email, and password.
-   - After successful registration, a confirmation message is displayed.
-
-2. **Login**:
-   - Registered users can log in using their email and password.
-   - Upon successful login, users receive a JWT token for authentication, which is stored in local storage.
-
-### **Tutor Profiles**
-
-- Tutors create and manage their profiles, providing details about their subjects, experience, and availability.
-- Students can browse these profiles, view ratings and reviews, and select a tutor based on their needs.
-
-### **Booking System**
-
-- Students can view tutors' availability and book sessions at convenient times.
-- The system sends automated reminders and notifications to both students and tutors to ensure sessions are not missed.
-
-### **Live Sessions**
-
-- Sessions are conducted using video conferencing tools like Zoom or Google Meet.
-- Features such as shared whiteboards, screen sharing, and interactive Q&A enhance the learning experience.
-
-### **Dashboard**
-
-- Both students and tutors have access to a user-friendly dashboard where they can manage their bookings and sessions.
-- Users can view session history, manage notes, and follow-up on previous sessions.
-=======
-### DEMO
--- Demo Check out the live demo: 
->>>>>>> 6ac032bab25406037fd91bae2587b0ef26a64ab1
-
 ## Getting Started
 
 ### Prerequisites
