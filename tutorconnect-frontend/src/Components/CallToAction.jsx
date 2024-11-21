@@ -1,37 +1,25 @@
 
 import React from 'react';
 
-const FAQSection = () => {
-  const faqs = [
-    {
-      question: "How do I book a session?",
-      answer: "You can book a session by browsing available tutors and selecting a convenient time slot on our booking page.",
-    },
-    {
-      question: "What tools do you use for live sessions?",
-      answer: "We use video conferencing tools like Zoom and Google Meet, along with interactive tools such as shared whiteboards.",
-    },
-    {
-      question: "How do I contact support?",
-      answer: "You can contact support via email at support@tutorconnect.com or call us at +1 (234) 567-890.",
-    },
-  ];
-
+const CallToActionSection = () => {
   return (
-    <section id="faq" className="bg-white py-16 w-full">
-      <div className="container mx-auto px-6 text-left">
-        <h2 className="text-4xl font-bold mb-12 text-blue-600">Frequently Asked Questions</h2>
-        <div className="space-y-8">
-          {faqs.map((faq, index) => (
-            <div key={index}>
-              <h3 className="text-2xl font-semibold mb-2">{faq.question}</h3>
-              <p className="text-gray-600">{faq.answer}</p>
-            </div>
-          ))}
-        </div>
+    <section id="register" className="bg-blue-600 text-white py-16 text-center w-full">
+      <div className="container mx-auto px-6">
+        <h2 className="text-4xl md:text-5xl font-bold mb-4">
+          Ready to Start Your Journey?
+        </h2>
+        <p className="text-lg md:text-xl mb-6">
+          Join us today and unlock your potential with TutorConnect.
+        </p>
+        <a
+          href="/get-started"
+          className="bg-white text-blue-600 font-semibold px-8 py-4 rounded shadow-lg hover:bg-gray-200 transition duration-300"
+        >
+          Get Started Now
+        </a>
       </div>
     </section>
   );
 };
 
-export default FAQSection;
+export default CallToActionSection;
