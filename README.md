@@ -46,7 +46,7 @@ SmartTutoris built to offer an engaging educational experience by allowing stude
 
 ## Demo
 
-Check out the live demo: [TeachNet Demo](https://teachnet.vercel.app)
+Check out the live demo: [TeachNet Demo](https://smarttutor.vercel.app/)
 
 ## Getting Started
 
