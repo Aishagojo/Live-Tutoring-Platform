@@ -1,13 +1,13 @@
 
-# TeachNet
+# SmartTutor
 
-TeachNet is designed to offer students the opportunity to book personalized, real-time tutoring sessions with qualified tutors. Unlike recorded lectures, this platform emphasizes interactive learning experiences, ensuring students receive immediate feedback and guidance.
+SmartTutoris designed to offer students the opportunity to book personalized, real-time tutoring sessions with qualified tutors. Unlike recorded lectures, this platform emphasizes interactive learning experiences, ensuring students receive immediate feedback and guidance.
 
 ## Project Introduction
 
 ### **Overview**
 
-TeachNet is built to offer an engaging educational experience by allowing students to book and attend live tutoring sessions. Tutors can create detailed profiles showcasing their expertise, and students can choose tutors based on their preferences and needs. The platform supports real-time interactions using video conferencing tools, enhancing the learning process through face-to-face communication and interactive tools.
+SmartTutoris built to offer an engaging educational experience by allowing students to book and attend live tutoring sessions. Tutors can create detailed profiles showcasing their expertise, and students can choose tutors based on their preferences and needs. The platform supports real-time interactions using video conferencing tools, enhancing the learning process through face-to-face communication and interactive tools.
 
 ### **Key Features**
 
