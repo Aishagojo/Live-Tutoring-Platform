@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center px-6">
         <div className="flex items-center">
           <img src={logo} alt="TutorConnect Logo" className="h-8 mr-3" />
-          <div className="text-xl font-bold text-blue-600">TutorConnect</div>
+          <div className="text-xl font-bold text-blue-600">SmartTutor</div>
         </div>
         <ul className="flex space-x-6 mx-auto">
           <li>
