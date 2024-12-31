@@ -39,6 +39,7 @@ SmartTutoris built to offer an engaging educational experience by allowing stude
 - **Node.js with Express**:
   - Handle server-side logic and API endpoints for managing data and user interactions.
 
+#### Got problem im workin on it 
 ### Database
 
 - **PostgreSQL**:
