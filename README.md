@@ -1,5 +1,5 @@
 
-# SmartTutor
+# SmartTutorr
 
 SmartTutoris designed to offer students the opportunity to book personalized, real-time tutoring sessions with qualified tutors. Unlike recorded lectures, this platform emphasizes interactive learning experiences, ensuring students receive immediate feedback and guidance.
 
